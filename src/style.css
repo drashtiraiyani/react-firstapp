@@ -1,0 +1,18 @@
+
+nav{
+    background-color: rgb(204, 129, 37);
+}
+
+.con-1{
+    background-color: lightgreen;
+    color: rgb(1, 57, 57);
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card{
+    height: 300px;
+    width: 300px;
+    border: 2px solid;
+    flex-grow: 1;
+}
